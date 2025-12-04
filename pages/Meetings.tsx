@@ -49,8 +49,8 @@ const Meetings: React.FC = () => {
               <div className="p-4 bg-red-100 text-red-600 rounded-full mb-4 animate-pulse dark:bg-red-900/30 dark:text-red-400">
                 <div className="w-4 h-4 bg-red-600 rounded-full"></div>
               </div>
-              <h3 className="text-lg font-semibold text-gray-800 mb-1 dark:text-white">Start Instant Meeting</h3>
-              <p className="text-sm text-gray-500 dark:text-slate-400">Launch a new meeting room immediately.</p>
+              <h3 className="text-lg font-semibold text-gray-800 mb-1 dark:text-white">Record Meeting</h3>
+              <p className="text-sm text-gray-500 dark:text-slate-400">Start a meeting with live transcription and recordings.</p>
             </div>
           </button>
         </div>

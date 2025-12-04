@@ -14,7 +14,7 @@ interface Transcript {
   text: string;
 }
 
-const Recording: React.FC = () => {a
+const Recording: React.FC = () => {
   const navigate = useNavigate();
   const [duration, setDuration] = useState(134); // 00:02:14 in seconds
   const [isPaused, setIsPaused] = useState(false);
